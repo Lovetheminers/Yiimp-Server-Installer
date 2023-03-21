@@ -1,10 +1,10 @@
-## Dirty Harry`s YiiMP Server Installer !
+## Lovetheminers YiiMP Server Installer !
 
 ## This is opened as a public repo - all features are not final!
 
 All in one installer for your yiimp server.
 
-**Dirty Harry YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
+** Lovetheminers YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
 
 * YiiMP
 
@@ -27,7 +27,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/Lovetheminers/Yiimp-Server-Installer/master/bootstrap.sh | bash
 ```
 
 
